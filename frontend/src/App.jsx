@@ -8,7 +8,7 @@ import SettingsPage from "./Pages/SettingsPage";
 import { Routes, Route, Navigate } from 'react-router-dom'
 import { authStore } from './stateStore/authStore'
 import { useEffect } from 'react'
-import Loader from './components/loader'
+import Loader from './components/Loader'
 import { Toaster } from "react-hot-toast"
 
 const App = () => {
