@@ -1,7 +1,7 @@
 import { useEffect, useState } from "react";
 import { useChatStore } from "../stateStore/chatStore";
 import { authStore } from "../stateStore/authStore";
-import SidebarSkeleton from "./skeletons/SidebarSkeleton";
+import SidebarSkeleton from "../../src/components/Skeletons/SidebarSkeleton";
 import { Users } from "lucide-react";
 import defaultUserPic from "../assets/defaultUser.png";
 
