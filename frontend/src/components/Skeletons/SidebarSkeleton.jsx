@@ -1,4 +1,3 @@
-// src/components/skeletons/SidebarSkeleton.jsx
 
 const SidebarSkeleton = () => {
   return (
